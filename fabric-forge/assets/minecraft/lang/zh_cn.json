@@ -1,0 +1,357 @@
+{
+  "selectWorld.backupQuestion.experimental": "未知实体错误",
+  "selectWorld.backupWarning.experimental": "Minecraft 已检测到世界中有未知的存在。请不要试图 穿 过 屏 幕。 忽略这一警告可能会导致怪异的事件/遭遇。  记住， 不要直视错误。",
+  "selectWorld.warning.experimental.title": "未知实体错误",
+  "selectWorld.warning.experimental.question": "Minecraft 已检测到世界中有未知的存在。请不要试图 穿 过 屏 幕。 忽略这一警告可能会导致怪异的事件/遭遇。 记住， 不要直视错误。",
+
+
+
+  "config.page0.progress": "配置 [0/0]",
+  "config.page1.progress": "配置 [1/6]",
+  "config.page2.progress": "配置 [2/6]",
+  "config.page3.progress": "配置 [3/6]",
+  "config.page4.progress": "配置 [4/6]",
+  "config.page5.progress": "配置 [5/6]",
+  "config.page6.progress": "配置 [6/6]",
+  "config.skin_library.progress": "配置 [皮肤库]",
+
+  "config.page1.title": "第一页",
+  "config.page2.title": "第二页",
+  "config.page3.title": "第三页",
+  "config.page4.title": "第四页",
+  "config.page5.title": "第五页",
+  "config.page6.title": "第六页",
+  "config.sss.title": "神秘妙妙设置",
+  "config.pages.title": "页码",
+
+
+  "config.sightingChanceConfig.title": "目击概率",
+  "config.sightingChanceConfig.description": "调整Herobrine出现的概率。",
+  "config.sightingChanceConfig.setting1": "寻常",
+  "config.sightingChanceConfig.setting2": "不寻常",
+  "config.sightingChanceConfig.setting3": "罕见",
+
+  "config.dayDelayConfig.title": "出现延迟",
+  "config.dayDelayConfig.description": "改变Herobrine开始搞事的延迟 (游戏内时间)。",
+  "config.dayDelayConfig.setting1": "降低延迟",
+  "config.dayDelayConfig.setting2": "增加延迟",
+
+  "config.ghostDoorConfig.title": "闹鬼的门",
+  "config.ghostDoorConfig.description": "Herobrine是否可以打开你的门。",
+
+  "config.ghostMineConfig.title": "鬼魂矿工",
+  "config.ghostMineConfig.description": "在矿洞中时Herobrine是否会在你附近挖矿。",
+
+  "config.creepingConfig.title": "蠕行机制",
+  "config.creepingConfig.description": "Herobrine是否会站在你后方以待你转身。",
+
+  "config.stalkingConfig.title": "跟踪机制",
+  "config.stalkingConfig.description": "Herobrine是否会在远处跟踪你。",
+
+
+
+  "config.poofingTorchesConfig.title": "消逝的火把",
+  "config.poofingTorchesConfig.description": "离开区域后Herobrine是否会立即尝试破坏你的火把。 (游戏内每天检查一次。)",
+
+  "config.burningBaseConfig.title": "燃烧的基地",
+  "config.burningBaseConfig.description": "离开区域后Herobrine是否会立即尝试点燃你的房子。 (游戏内每天检查一次。)",
+
+  "config.spotNoiseConfig.title": "目击噪音",
+  "config.spotNoiseConfig.description": "当玩家发现Herobrine时是否播放一段噪音。",
+
+  "config.glowingEyesConfig.title": "发光层",
+  "config.glowingEyesConfig.description": "Herobrine是否会具有发光层(译注:Herobrine的眼睛是否会发光) 对于想让它更原版或是使用动态光源的玩家很有用。",
+
+  "config.herobrineSkinConfig.title": "Herobrine 皮肤",
+  "config.herobrineSkinConfig.description": "改变Herobrine的皮肤纹理/模型。",
+  "config.herobrineSkinConfig.setting1": "皮肤库",
+
+  "config.lurkingLanguageConfig.title": "隐匿语言",
+  "config.lurkingLanguageConfig.description": "改变Herobrine与玩家对话时采用的语言。",
+  "config.lurkingLanguageConfig.setting1": "瑞典语",
+  "config.lurkingLanguageConfig.setting2": "英语",
+
+
+
+  "config.jumpscareConfig.title": "惊吓机制",
+  "config.jumpscareConfig.description": "启用Herobrine在玩家靠太近时惊吓的能力。",
+
+  "config.crashConfig.title": "旧惊吓机制",
+  "config.crashConfig.description": "将惊吓机制切换为旧版。[癫痫警告！] [对低配机不友好！] (仅在惊吓机制启用时生效。)",
+
+  "config.creepingVanishingDelayConfig.title": "蠕行消失延迟",
+  "config.creepingVanishingDelayConfig.description": "更改蠕行的Herobrine被玩家发现后消失的延迟。",
+  "config.creepingVanishingDelayConfig.setting1": "无",
+  "config.creepingVanishingDelayConfig.setting2": "0.5秒",
+  "config.creepingVanishingDelayConfig.setting3": "1秒",
+  "config.creepingVanishingDelayConfig.setting4": "1.5秒",
+  "config.creepingVanishingDelayConfig.setting5": "2秒",
+
+  "config.stalkingVanishingDelayConfig.title": "跟踪消失延迟",
+  "config.stalkingVanishingDelayConfig.description": "更改跟踪玩家的Herobrine被玩家发现后消失的延迟。",
+  "config.stalkingVanishingDelayConfig.setting1": "None",
+  "config.stalkingVanishingDelayConfig.setting2": "0.5秒",
+  "config.stalkingVanishingDelayConfig.setting3": "1秒",
+  "config.stalkingVanishingDelayConfig.setting4": "1.5秒",
+  "config.stalkingVanishingDelayConfig.setting5": "2秒",
+
+  "config.noSleepConfig.title": "失眠",
+  "config.noSleepConfig.description": "Herobrine在附近时会令你失眠。(和平模式下无效。)",
+
+  "config.dreadfulDonationConfig.title": "恐怖的施舍",
+  "config.dreadfulDonationConfig.description": "Herobrine是否会在你的箱子里留下礼物。(三天过去或神龛建立后可能发生。 游戏内每天检查一次。)",
+
+
+
+  "config.crimsonCurseConfig.title": "猩红诅咒",
+  "config.crimsonCurseConfig.description": "Herobrine是否会把你的火把变成红石火把，灯笼变成灵魂灯笼。 (游戏内每天检查一次。)",
+
+  "config.OGshrineMechanicConfig.title": "旧神龛机制",
+  "config.OGshrineMechanicConfig.description": "激活Herobrine的神龛时是否会有闪电。",
+
+  "config.nightmareMechanicConfig.title": "噩梦机制",
+  "config.nightmareMechanicConfig.description": "在你睡觉时Herobrine是否会站在你的床前。",
+
+  "config.windowWatcherConfig.title": "窗外的窥视者",
+  "config.windowWatcherConfig.description": "当看向窗户时是否会看到消失的Herobrine。",
+
+  "config.chilledCandlesConfig.title": "鬼吹灯",
+  "config.chilledCandlesConfig.description": "Herobrine是否有能力熄灭玩家的蜡烛。",
+
+  "config.sinisterSignsConfig.title": "凶兆",
+  "config.sinisterSignsConfig.description": "某些事件中Herobrine是否会留下预兆。",
+
+
+
+  "config.sightingSenseConfig.title": "目击感知",
+  "config.sightingSenseConfig.description": "Herobrine在附近时你的宠物是否会有反应。",
+
+  "config.nameTagConfig.title": "姓名标签",
+  "config.nameTagConfig.description": "Herobrine是否会有姓名标签以及它将如何出现。",
+  "config.nameTagConfig.setting1": "关闭",
+  "config.nameTagConfig.setting2": "动态",
+  "config.nameTagConfig.setting3": "混淆",
+
+  "config.rekindlingShrineConfig.title": "复苏的神龛",
+  "config.rekindlingShrineConfig.description": "Herobrine是否会重新点亮熄灭的神龛。",
+
+  "config.advancementsConfig.title": "成就",
+  "config.advancementsConfig.description": "是否启用成就。(关闭此选项将导致已获得的成就丢失!!!)",
+
+  "config.fearfulFootstepsConfig.title": "可怕的脚步声",
+  "config.fearfulFootstepsConfig.description": "Herobrine是否会奔跑在玩家身后并制造脚步声。",
+
+  "config.shrineSupriseConfig.title": "神龛惊喜",
+  "config.shrineSupriseConfig.description": "点亮神龛时Herobrine是否会出现在其上方。",
+
+
+
+  "config.lurkingConfig.title": "潜伏机制",
+  "config.lurkingConfig.description": "Herobrine是否会潜伏在距玩家很远的地方观察玩家。",
+
+  "config.autoConfigDisable.title": "恢复控制",
+  "config.autoConfigEnable.title": "交予控制",
+  "config.autoConfig.description": "Herobrine是否能修改配置。(译注:此选项内部名称为自动配置)",
+
+
+
+  "config.hittingThatGriddyConfig.title": "神秘舞蹈(译注:不保证此条翻译正确性)",
+  "config.hittingThatGriddyConfig.description": "Herobrine生成时是否或做出神秘舞蹈。",
+
+  "config.hoeBrineReturnsConfig.title": "Hoebrine回归",
+  "config.hoeBrineReturnsConfig.description": "将Herobrine变回Hoebrine就像玩家在未启用资源包时看到Herobrine那样时发生的原初错误。",
+
+
+
+  "config.skinLibrary.randomizeSkinsConfig.title": "随机皮肤",
+  "config.skinLibrary.builtInSkins.title": "皮肤",
+  "config.skinLibrary.defaultSkin.title": "默认",
+  "config.skinLibrary.classicSkin.title": "经典",
+  "config.skinLibrary.blackEyesSkin.title": "黑目",
+  "config.skinLibrary.entity303Skin.title": "实体303",
+  "config.skinLibrary.glitchSkin.title": "故障",
+  "config.skinLibrary.nullSkin.title": "Null",
+  "config.skinLibrary.lunarEclipseSkin.title": "月食",
+  "config.skinLibrary.apparitionSkin.title": "幻影",
+  "config.skinLibrary.zombieSkin.title": "僵尸",
+  "config.skinLibrary.nullifiedSkin.title": "Null感染者",
+  "config.skinLibrary.facelessSkin.title": "无面人",
+  "config.skinLibrary.distortedSkin.title": "扭曲",
+  "config.skinLibrary.alexSkin.title": "爱丽克丝",
+  "config.skinLibrary.lickSkin.title": "添舐",
+  "config.skinLibrary.fallenKingdomSkin.title": "陨落王国",
+  "config.skinLibrary.sculkInfestedSkin.title": "幽匿感染者",
+  "config.skinLibrary.netherBrineSkin.title": "地狱Herobrine",
+  "config.skinLibrary.farlanderSkin.title": "异乡人",
+  "config.skinLibrary.theHeadlessSkin.title": "无头者",
+  "config.skinLibrary.lumberingJackSkin.title": "伐木工杰克",
+  "config.skinLibrary.smileSkin.title": "微笑",
+  "config.skinLibrary.theGrimreaperSkin.title": "死神",
+  "config.skinLibrary.whiteEyesClassicSkin.title": "白目 (经典)",
+  "config.skinLibrary.theWhitePumpkinSkin.title": "白南瓜头",
+
+  "watchingSkin.customSkinPack.name": "自定义皮肤",
+  "watchingSkin.customSkin1.name": "自定义皮肤1",
+  "watchingSkin.customSkin2.name": "自定义皮肤2",
+  "watchingSkin.customSkin3.name": "自定义皮肤3",
+  "watchingSkin.customSkin4.name": "自定义皮肤4",
+  "watchingSkin.customSkin5.name": "自定义皮肤5",
+
+
+
+  "sign.type1.line1": "",
+  "sign.type1.line2": "我正看着...",
+  "sign.type1.line3": "",
+  "sign.type1.line4": "",
+
+  "sign.type2.line1": "",
+  "sign.type2.line2": "帮帮我",
+  "sign.type2.line3": "",
+  "sign.type2.line4": "",
+
+  "sign.type3.line1": "",
+  "sign.type3.line2": "看见你了。",
+  "sign.type3.line3": "",
+  "sign.type3.line4": "",
+
+  "sign.type4.line1": "",
+  "sign.type4.line2": "你好啊,",
+  "sign.type4.line3": " 这 是 玩 家 的 用 户 名 , 改 变 它 不 会 有 任 何 作 用 。",
+  "sign.type4.line4": "",
+
+  "sign.type5.line1": "",
+  "sign.type5.line2": " 醒 来 。",
+  "sign.type5.line3": "",
+  "sign.type5.line4": "",
+
+  "sign.type6.line1": "",
+  "sign.type6.line2": "你不是",
+  "sign.type6.line3": "独自一人。",
+  "sign.type6.line4": "",
+
+  "sign.type7.line1": "",
+  "sign.type7.line2": "仔细听。",
+  "sign.type7.line3": "",
+  "sign.type7.line4": "",
+
+  "sign.type8.line1": "",
+  "sign.type8.line2": "你也",
+  "sign.type8.line3": "听到它了吗?",
+  "sign.type8.line4": "",
+
+  "sign.type9.line1": "",
+  "sign.type9.line2": "停下。",
+  "sign.type9.line3": "",
+  "sign.type9.line4": "",
+
+  "sign.type10.line1": "",
+  "sign.type10.line2": "我是不是吓到",
+  "sign.type10.line3": "你了?",
+  "sign.type10.line4": "",
+
+  "sign.type11.line1": "",
+  "sign.type11.line2": "你无法逃离",
+  "sign.type11.line3": "这个梦魇。",
+  "sign.type11.line4": "",
+
+  "sign.type12.line1": "你在",
+  "sign.type12.line2": "烛台上",
+  "sign.type12.line3": "找什么?",
+  "sign.type12.line4": "",
+
+
+
+  "advancements.ftf.root.title": "来自雾中",
+  "advancements.ftf.root.description": "你看不到他, 但我保证它能看到你...",
+
+  "advancements.ftf.built_shrine.title": "你不明白你干了什么...",
+  "advancements.ftf.built_shrine.description": "建造一个Herobrine神龛。",
+
+  "advancements.ftf.jumpscared.title": "在你身后...",
+  "advancements.ftf.jumpscared.description": "首次被Herobrine惊吓。",
+
+  "advancements.ftf.found_herobrine_structure.title": "我在单人模式对吧?",
+  "advancements.ftf.found_herobrine_structure.description": "发现任何Herobrine制造的建筑物。",
+
+  "advancements.ftf.herobrine_griddy.title": "什么?!",
+  "advancements.ftf.herobrine_griddy.description": "遭遇神秘舞蹈的Herobrine。(译注:此条翻译不保证正确性。)",
+
+  "advancements.ftf.be_the_librarian.title": "黑暗中的光...",
+  "advancements.ftf.be_the_librarian.description": "成为图书管理员。",
+
+  "advancements.ftf.liberty_lantern.title": "你好自由。",
+  "advancements.ftf.liberty_lantern.description": "给一个悦灵一盏灯。",
+
+  "advancements.ftf.dog_growl.title": "你还好吗孩子?",
+  "advancements.ftf.dog_growl.description": "目击一只驯服的狼向Herobrine咆哮。",
+
+  "advancements.ftf.have_a_nightmare.title": "只是个噩梦... 对吧?",
+  "advancements.ftf.have_a_nightmare.description": "首次经历噩梦。",
+
+  "advancements.ftf.found_logless_tree.title": "我不记得做过这个。",
+  "advancements.ftf.found_logless_tree.description": "发现一棵你未曾砍倒的树。",
+
+  "advancements.ftf.found_leafless_grove.title": "这不是岩浆能做到的...",
+  "advancements.ftf.found_leafless_grove.description": "发现一片没有树叶的树林。",
+
+  "advancements.ftf.named_dd_item.title": "它在交流...",
+  "advancements.ftf.named_dd_item.description": "发现指名的恐怖馈赠。",
+
+  "advancements.ftf.spotted_herobrine.title": "我应该打电话给Kevin!",
+  "advancements.ftf.spotted_herobrine.description": "首次目击Herobrine。",
+
+  "advancements.ftf.be_comical_bonzo.title": "事实上很棒。",
+  "advancements.ftf.be_comical_bonzo.description": "成为一个滑稽的邦佐。(译注:我也不知道这是什么意思)",
+
+  "advancements.ftf.ghost_miner.title": "那 是 什 么?",
+  "advancements.ftf.ghost_miner.description": "挖矿时遇到Herobrine在你附近挖掘。",
+
+  "advancements.ftf.take_gm_torch.title": "我要拿走它，去你的！",
+  "advancements.ftf.take_gm_torch.description": "从幽灵矿工那夺走火把",
+
+  "advancements.ftf.dreadful_donation.title": "谁把它放到这里?",
+  "advancements.ftf.dreadful_donation.description": "发现来自Herobrine的恐怖馈赠。",
+
+  "advancements.ftf.didnt_notice_herobrine.title": "他在看...",
+  "advancements.ftf.didnt_notice_herobrine.description": "被Herobrine跟踪而没有发现他。",
+
+  "advancements.ftf.survive_3_days.title": "有人在跟着我吗?",
+  "advancements.ftf.survive_3_days.description": "存活3天。",
+
+  "advancements.ftf.survive_10_days.title": "有人在跟着我...",
+  "advancements.ftf.survive_10_days.description": "存活10天。",
+
+  "advancements.ftf.survive_50_days.title": "让我独自一人。",
+  "advancements.ftf.survive_50_days.description": "存活50天。",
+
+  "advancements.ftf.survive_100_days.title": "我得藏起来。",
+  "advancements.ftf.survive_100_days.description": "存活100天。",
+
+  "advancements.ftf.survive_200_days.title": "让我离开这里!",
+  "advancements.ftf.survive_200_days.description": "存活200天。",
+
+  "advancements.ftf.found_torch_tunnel.title": "我不会到那下面去。",
+  "advancements.ftf.found_torch_tunnel.description": "发现一个Herobrine挖的隧道。",
+
+
+
+  "subtitle.message.warning": "我正看着...",
+
+
+
+  "chat.cleanup.execute.statement": "移除所有Herobrine。",
+  "chat.cleanup.failure.statement": "移除Herobrine失败!",
+  "chat.cleanup.failure.description": "当前世界中没有Herobrine加载!",
+  "chat.cleanup.success.statement": "成功移除所有Herobrine!",
+
+  "chat.debug_mode.enable.statement": "调试模式已开启!",
+  "chat.debug_mode.disable.statement": "调试模式已关闭!",
+
+  "chat.default_config.execute.statement": "已恢复默认配置!",
+
+  "chat.sighting_summons.tutorial.statement": "命令教程",
+  "chat.sighting_summons.creeping.tutorial.description": "此命令执行时将激活蠕行机制并在玩家身后生成Herobrine。",
+  "chat.sighting_summons.stalking.tutorial.description": "此命令执行时将激活跟踪机制并在玩家附近某处生成Herobrine。Herobrine可能不会生成如果他的生成点在另一玩家的视野里。",
+  "chat.sighting_summons.nightmare.tutorial.description": "此命令执行时将激活噩梦机制并在玩家床前生成Herobrine。Herobrine可能不会生成如果玩家不在床上。",
+  "chat.sighting_summons.lurking.tutorial.description": "此命令执行时将激活潜伏机制并在玩家远处生成Herobrine。Herobrine可能不会生成如果他的生成点在距离某玩家40格内。"
+}
